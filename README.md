@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @PixarClones
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, and JS
-- 💞️ I’m looking to collaborate on my web development projects
-- 📫 Reach me at: jassingh.5895@gmail.com
+@PixarClones
+Interested in Web Development
+Currently learning HTML, CSS, and JS
+
 
 <!---
 PixarClones/PixarClones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
